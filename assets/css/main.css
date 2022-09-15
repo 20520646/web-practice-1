@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    
+}
+.block-heading {
+    padding: 16px 0;
+    margin: 16px;
+    background-color:#FECCFF ;
+    text-align: center;
+
+}
+.block-heading h1 {
+    color: #FF0198;
+
+}
+.block-body {
+    padding: 8px 0;
+    margin: 16px;
+    background-color: #FFFFCD;
+    text-align: center;
+}
+.block-body .doan1 {
+    color: #3931F5;
+}
+.block-body .doan2 {
+    color: #A858A4;
+}
+.block-body .doan3 {
+    color: #819D42;
+}
+.block-body hr{
+    margin: 16px 25%;
+    width: 50%;
+    
+}
